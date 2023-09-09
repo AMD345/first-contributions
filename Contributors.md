@@ -117,6 +117,7 @@ Mac McHam
 - [Neel Contractor] (https://github.com/NeelContractor)
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
+- psuurd-agarciajr
 - psuuc-mvgo
 -egulbinado
 -psuuc-acbascos
